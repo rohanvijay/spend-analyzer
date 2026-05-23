@@ -1,0 +1,12 @@
+node_modules/
+.venv/
+dist/
+transactions.json
+__pycache__/
+.pycache/
+.pypytest_cache/
+.DS_Store
+
+# Personal financial source documents.
+Statements/**/*.pdf
+Statements/**/.DS_Store
