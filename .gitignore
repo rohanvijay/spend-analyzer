@@ -4,7 +4,7 @@ dist/
 transactions.json
 __pycache__/
 .pycache/
-.pypytest_cache/
+.pytest_cache/
 .DS_Store
 
 # Personal financial source documents.
